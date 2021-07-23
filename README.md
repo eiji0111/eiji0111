@@ -53,15 +53,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
-<p>
-  <a href="https://github.com/eiji0111/eiji0111">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eiji0111&theme=vue" alt="eiji0111" width="100%" height="auto"/>
-  </a>
-</p>
 
-[![eiji0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiji0111&show_icons=true&theme=chartreuse-dark)](https://github.com/eiji0111/eiji0111)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiji0111&layout=compact&theme=chartreuse-dark)](https://github.com/eiji0111/eiji0111)
-[![trophy](https://github-profile-trophy.vercel.app/?username=eiji0111&theme=juicyfresh)](https://github.com/eiji0111/eiji0111)
+[![eiji0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiji0111&show_icons=true&hide_border=true&theme=vue)](https://github.com/eiji0111/eiji0111)
+
+[![](https://raw.githubusercontent.com/eiji0111/eiji0111/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/eiji0111/eiji0111/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/eiji0111/eiji0111/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 職務経歴
 |年月 |職歴 |
