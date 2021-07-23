@@ -53,8 +53,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
+<p>
+  <a href="https://www.nginx.com" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eiji0111&theme=vue" alt="eiji0111" width="100%" height="auto"/>
+  </a>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eiji0111&theme=monokai)
 ![eiji0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiji0111&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiji0111&layout=compact&theme=chartreuse-dark)](https://github.com/eiji0111/eiji0111)
 [![trophy](https://github-profile-trophy.vercel.app/?username=eiji0111&theme=juicyfresh)](https://github.com/eiji0111/eiji0111)
