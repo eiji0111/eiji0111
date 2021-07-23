@@ -54,12 +54,12 @@
   </a>
 </p>
 <p>
-  <a href="https://www.nginx.com" target="_blank">
+  <a href="https://github.com/eiji0111/eiji0111">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eiji0111&theme=vue" alt="eiji0111" width="100%" height="auto"/>
   </a>
 </p>
 
-![eiji0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiji0111&show_icons=true&theme=chartreuse-dark)
+[![eiji0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiji0111&show_icons=true&theme=chartreuse-dark)](https://github.com/eiji0111/eiji0111)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiji0111&layout=compact&theme=chartreuse-dark)](https://github.com/eiji0111/eiji0111)
 [![trophy](https://github-profile-trophy.vercel.app/?username=eiji0111&theme=juicyfresh)](https://github.com/eiji0111/eiji0111)
 
