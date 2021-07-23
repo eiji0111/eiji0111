@@ -72,6 +72,3 @@
 |2020.11 |立川駐屯地(東京) UH-1J航空操縦士として配属 |
 |2021.03 |陸上自衛隊退職 |
 |2021.04~ |DWW WEBCAMP入学 日々プログラミング学習中|
-
-## ポートフォリオ
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eiji0111&repo=favory&theme=monokai)](https://github.com/eiji0111/favory)
