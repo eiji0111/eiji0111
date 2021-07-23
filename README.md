@@ -63,10 +63,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiji0111&layout=compact&theme=chartreuse-dark)](https://github.com/eiji0111/eiji0111)
 [![trophy](https://github-profile-trophy.vercel.app/?username=eiji0111&theme=juicyfresh)](https://github.com/eiji0111/eiji0111)
 
-### 🌸 ポートフォリオ
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eiji0111&repo=favory&theme=monokai)](https://github.com/eiji0111/favory)
-
-### ✏️ 職務経歴
+## 職務経歴
 |年月 |職歴 |
 ----|----
 |2013.03 |陸上自衛隊高等工科学校卒業 |
@@ -75,3 +72,6 @@
 |2020.11 |立川駐屯地(東京) UH-1J航空操縦士として配属 |
 |2021.03 |陸上自衛隊退職 |
 |2021.04~ |DWW WEBCAMP入学 日々プログラミング学習中|
+
+## ポートフォリオ
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eiji0111&repo=favory&theme=monokai)](https://github.com/eiji0111/favory)
