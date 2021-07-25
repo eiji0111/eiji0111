@@ -54,11 +54,11 @@
   </a>
 </p>
 
-[![eiji0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiji0111&show_icons=true&hide_border=true&theme=vue)](https://github.com/eiji0111/eiji0111)
+[![eiji0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiji0111&show_icons=true&hide_border=true&theme=vue)](https://github.com/eiji0111)
 
-[![](https://raw.githubusercontent.com/eiji0111/eiji0111/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/eiji0111/eiji0111/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/eiji0111/eiji0111/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/eiji0111/eiji0111/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/eiji0111)
+[![](https://raw.githubusercontent.com/eiji0111/eiji0111/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/eiji0111)
+[![](https://raw.githubusercontent.com/eiji0111/eiji0111/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/eiji0111)
 
 ## 職務経歴
 |年月 |職歴 |
