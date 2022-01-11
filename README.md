@@ -62,13 +62,17 @@
 
 ## Certifacations
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/78339908/134768640-29769198-a55d-4a99-83c5-ca46d17238c8.png" width="120px">
-  <img src="https://user-images.githubusercontent.com/78339908/148963678-8d2d5405-2fd3-45a2-9c70-91d6d82f6a6e.png" width="120px">
-</p>
-<p align="left">
   【2021/09/25】
   【2021/12/25】
 </p>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/78339908/134768640-29769198-a55d-4a99-83c5-ca46d17238c8.png" width="120px">
+  <img src="https://user-images.githubusercontent.com/78339908/148963678-8d2d5405-2fd3-45a2-9c70-91d6d82f6a6e.png" width="120px">
+</p>
+
+【2021/11/03】  
+基本情報技術者
+
 
 ## 職務経歴
 |年月 |職歴 |
